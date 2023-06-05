@@ -75,6 +75,7 @@
                 <include>**/*.properties</include>
                 <include>**/*.yml</include>
                 <include>**/*.html</include>
+                <!-- Agrega aquí otros tipos de recursos estáticos que necesites -->
             </includes>
         </resource>
         <resource>
@@ -83,6 +84,7 @@
                 <include>**/*.css</include>
                 <include>**/*.js</include>
                 <include>**/*.jpg</include>
+                <!-- Agrega aquí otros tipos de recursos estáticos que necesites -->
             </includes>
         </resource>
     </resources>
