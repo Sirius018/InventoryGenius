@@ -10,4 +10,9 @@ public class HomeController {
 	public String home() {
 		return "Home";
 	}
+	
+	
+	
+	
+	/* pagina de referencia: https://webflow.com/blog/business-website-examples */
 }
