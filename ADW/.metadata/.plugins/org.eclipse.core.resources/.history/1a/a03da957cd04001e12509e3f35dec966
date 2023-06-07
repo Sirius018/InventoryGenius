@@ -17,7 +17,7 @@ public class HomeController {
 	} 
 	
 	
-	/* primera pagina que debe ejecutarse */
+	
 	@GetMapping("/home")
 	public String home() {
 		//return "Home_Acount";
