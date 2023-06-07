@@ -16,6 +16,7 @@ public class Producto {
 
 	@Id
 	private String cod_unico_prod;
+	
 	private String nombre_prod;
 	private String descripcion_prod;
 	private Date fecha_ingreso;
