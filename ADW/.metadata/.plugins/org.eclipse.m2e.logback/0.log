@@ -794,3 +794,19 @@
 2023-06-06 19:55:19,814 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-06 19:55:19,817 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
 2023-06-06 19:55:19,821 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 20:55:24,409 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-06 20:55:24,413 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
+2023-06-06 20:55:24,419 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 23:47:25,225 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-06 23:47:25,228 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
+2023-06-06 23:47:25,232 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 23:48:10,523 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-06 23:48:10,527 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
+2023-06-06 23:48:10,531 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 23:48:22,736 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-06 23:48:22,740 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
+2023-06-06 23:48:22,743 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 23:48:54,654 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-06 23:48:54,658 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\main\webapp
+2023-06-06 23:48:54,662 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\PROYECTOS\ADW\InventoryGenius\src\test\resources
+2023-06-06 23:49:35,746 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes

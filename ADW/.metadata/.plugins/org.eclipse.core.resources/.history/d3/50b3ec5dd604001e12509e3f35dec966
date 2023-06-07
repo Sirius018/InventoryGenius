@@ -145,17 +145,12 @@ main{
     width: 85%;
     margin: 0 auto;
     text-align:left;
-    display: flex;
-    padding: 30vh 0 30vh;
-}
-
-.intert-mid{
-    display: flex;
+    display: flex;    
 }
 
 .intert-mid .content-title .lema{
     width: 69%;
-    margin-right: 1%;    
+    margin-right: 1%;
 }
 .intert-mid .content-title h1{
     color: #000;
@@ -166,22 +161,11 @@ main{
     color: #363636;
 }
 
-.intert-mid .content-title .ipa{
-    width: 30%;
-    height: auto;
+.intert-mid .content-title .vacio{
+    width: 29%;
+    margin-left: 1%;
 }
 
-.intert-mid .content-title .ipa i{
-    font-size: 250px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-        
-}
-
-
-
-/*
 .contenedor-imagen {
 	height: 100vh;
     width: 100%;
@@ -196,7 +180,7 @@ main{
 	object-fit: cover;
 	object-position: 0 bottom;
 }
-*/
+
 
 
 
@@ -282,7 +266,7 @@ main .content-main{
 
 /* separacion arriva-abajo de los componentes padres */
 .content-title, .contenedor-imagen, main{
-    margin: 15px auto;
+    margin: 75px auto;
 }
 
 
@@ -292,7 +276,6 @@ footer{
    margin: 50px auto;
    display: block;
 }
-
 
 
     </style>
@@ -305,7 +288,7 @@ footer{
             <div class="menu-toggle"></div>
             <nav>
                 <ul>
-                    <li><a class="active" href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>                               
+                    <li><a class="active" href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
                     <li><a href="#"><i class="fa fa-plus" aria-hidden="true"></i> Servicios</a></li>
                     <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Contactos</a></li>
                     <li><a href="/home/config"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
@@ -320,8 +303,12 @@ footer{
             <div class="lema">
                 <h1>Nuestra garantía, tu tranquilidad: Almacenamiento confiable, precios competitivos y servicio veloz para tus productos. <br><span>Tenemos 30 años en el mercado local e internacional</span></h1>
             </div>
-            <div class="ipa"><i class="fa fa-shield" aria-hidden="true"></i></div>
-        </div>        
+        </div>
+        <div class="contenedor-imagen">
+            <a href="#blog">
+                <img src="../static/image_home/background.jpeg" alt="Inagen no found">
+            </a>
+        </div>
     </div>
     
 
