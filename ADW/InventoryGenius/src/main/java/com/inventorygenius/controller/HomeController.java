@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class HomeController {
 
+
 	/* abrir este despues de logearte */
 	@GetMapping("/home/config")
 	public String configs() {
@@ -18,9 +19,5 @@ public class HomeController {
 		//return "Home_Acount";
 		return "Index";
 	}
-	
-	
-	
-	
 	/* pagina de referencia: https://webflow.com/blog/business-website-examples */
 }
