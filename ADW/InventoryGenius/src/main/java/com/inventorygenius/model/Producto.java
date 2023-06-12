@@ -19,6 +19,7 @@ public class Producto {
 	
 	private String nombre_prod;
 	private String descripcion_prod;
+	private String cod_unico_prov;
 	private Date fecha_ingreso;
 	private Date fecha_salida;
 	private int stk_prod;
